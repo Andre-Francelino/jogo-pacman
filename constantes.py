@@ -10,6 +10,7 @@ FPS = 30
 
 # Cores
 PRETO = (0, 0, 0)
+AMARELO = (244, 233, 51)
 
 # Imagens
 SPRITESHEET = 'spritesheet.png'
