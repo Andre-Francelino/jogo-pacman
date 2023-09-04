@@ -10,3 +10,10 @@ FPS = 30
 
 # Cores
 PRETO = (0, 0, 0)
+
+# Imagens
+SPRITESHEET = 'spritesheet.png'
+PACMAN_START_LOGO = 'pacman-logo-1.png'
+
+# Fonte
+FONTE = 'arial'
